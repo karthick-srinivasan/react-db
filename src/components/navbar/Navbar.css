@@ -1,0 +1,8 @@
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+img[src] {
+  background: #000;
+}

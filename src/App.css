@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.display-flex {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.page-container {
+  margin: 0 auto;
+  width: 80%;
+}

@@ -1,0 +1,12 @@
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20%;
+  color: #ff0000;
+}
+
+.error-icon {
+  font-size: 50px !important;
+  margin: 20px !important;
+}
